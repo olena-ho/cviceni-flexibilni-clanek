@@ -52,7 +52,7 @@ h2 {
   max-width: 60%;
 }
 
-@media screen and (max-width: 676px) {
+@media screen and (max-width: 752px) {
   .article {
     flex-direction: column;
     align-items: center;
